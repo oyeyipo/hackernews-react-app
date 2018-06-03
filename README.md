@@ -3,4 +3,4 @@
 ![React Logo](public/favicon.ico?raw=true "React logo")
 
 
-![React Logo](public/Screen.png?raw=true "React logo")
+![App Screen](public/Screen.png?raw=true "App Screen")
